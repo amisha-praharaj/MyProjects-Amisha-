@@ -16,6 +16,7 @@ Welcome to my collection of full stack web development projects! Each ZIP file i
 | ShopSphere.zip                     | An e-commerce web app with cart and checkout.     |
 | TICTACTOE.zip                      | A classic Tic Tac Toe game in HTML/CSS/JS.        |
 | WEATHERDETECTORbyAmisha.zip       | A weather app using OpenWeatherMap API.           |
+|  TrendCart.zip                    | e-commerce platform with API integration for dynamic product listings and order processing. |
 | inventory-management-system-mern.zip | Full CRUD inventory app using MERN stack.       |
 
 ## 🚀 How to Use
