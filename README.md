@@ -36,7 +36,7 @@ Welcome to my collection of full stack web development projects! Each ZIP file i
 
 ## 🙋‍♀️ About Me
 
-I'm Amisha Praharaj, a passionate full stack web developer eager to build and learn! Connect with me on [LinkedIn](www.linkedin.com/in/amisha-praharaj-b6765b2ba) and explore more.
+I'm Amisha Praharaj, a passionate full stack web developer eager to build and learn! Connect with me on [LinkedIn]([www.linkedin.com/in/amisha-praharaj-b6765b2ba](http://www.linkedin.com/in/amisha-praharaj-b6765b2ba)) and explore more.
 
 ---
 
